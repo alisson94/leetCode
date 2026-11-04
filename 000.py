@@ -1,3 +1,3 @@
-stack = [(1,2)]
+x = int(3/2)
 
-print(stack)
+print(x)
