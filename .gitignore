@@ -1,2 +1,7 @@
 .qodo
 .vscode
+
+000.cpp
+*.exe
+
+000.py
